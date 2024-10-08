@@ -1,8 +1,6 @@
 # To-Do List App - Simple Task Management
 
-![image](https://github.com/user-attachments/assets/08b253c8-701b-4ca1-a671-3858cd4075fd)
-
-
+![image](https://github.com/user-attachments/assets/e449aa61-3823-48d5-80b2-86e5a751074d)
 
 This project is a minimalistic and functional to-do list application designed to streamline task management. Key features include:
 
